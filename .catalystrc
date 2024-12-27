@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "10129000000007078",
+      "name": "Gayathri-Portfolio",
+      "domain": {
+        "id": "50022280724",
+        "name": "gayathri-portfolio-60032772132.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60032772132",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
